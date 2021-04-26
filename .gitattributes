@@ -1,2 +1,0 @@
-cyclone-15.0.0.145.qdz filter=lfs diff=lfs merge=lfs -text
-DE0-Nano_v.1.2.8_SystemCD.zip filter=lfs diff=lfs merge=lfs -text
